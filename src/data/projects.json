@@ -1,0 +1,27 @@
+[
+  
+  {
+    "title": "Project A",
+    "imageSrc": "projects/projecta.jpg",
+    "description": "Modern UI/UX website, developed using React.js and Tailwind CSS",
+    "skills": ["React", "Tailwind CSS"],
+    "demo": "https://modern-ui-ux-beta.vercel.app/",
+    "source": "https://github.com/LikhithaBollam/ModernUI-UX"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/projectb.jpg",
+    "description": "Responsive Space Website using ReactJS and Tailwind CSS",
+    "skills": ["React", "Tailwind CSS"],
+    "demo": "https://space-website-xi.vercel.app/",
+    "source": "https://github.com/LikhithaBollam/SpaceWebsite"
+  },
+
+  {
+    "title": "Project C",
+    "imageSrc": "projects/projectc.jpg",
+    "description": "Python based personal assistant using integrated speech recognition to activate and interact with the assistant using voice commands.",
+    "skills": ["Python"],
+    "source": "https://github.com/LikhithaBollam/AIdesktop"
+  }
+]

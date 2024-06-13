@@ -1,0 +1,60 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+ 
+
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/js.png"
+  },
+
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+
+  {
+    "title": "NextJs",
+    "imageSrc": "skills/nextjs.png"
+  },
+ 
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+ 
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Strapi",
+    "imageSrc": "skills/strapi.jpg"
+  },
+  {
+    "title": "Sanity",
+    "imageSrc": "skills/sanity.png"
+  },
+
+  {
+    "title": "C",
+    "imageSrc": "skills/c.png"
+  },
+
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.jpg"
+  }
+ 
+]

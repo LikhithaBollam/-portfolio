@@ -1,0 +1,30 @@
+[
+  {
+    "role": "Frontend Developer",
+    "organisation": "CMRIT",
+    "startDate": "Jan, 2024",
+    "endDate": "March, 2024",
+    
+    "experiences": ["Worked on development of university website", "Designed and implemented responsive user interfaces using React and Tailwind CSS"]
+    
+  },
+ 
+  {
+    "role": "Java Developer",
+    "organisation": "Edugene Technologies",
+    "startDate": "Sept, 2023",
+    "endDate": "Nov, 2023",
+    "experiences": [
+      "Developed a multi-tier Employee Management System using Spring Boot for HR processes (onboarding, performance tracking, payroll)",
+      "Assisted in frontend integration with React.js and enabled real-time updates using WebSockets"
+    ]
+   
+  },
+  {
+    "role": "Frontend Developer Internship",
+    "organisation": "Persist Ventures",
+    "startDate": "Aug, 2023",
+    "endDate": "Oct, 2023",
+    "experiences": ["Participated in developing the website to facilitate communication and connection among neighbours", "Created interactive forms for users to submit personal information and shared activities, enhancing user engagement"]
+  }
+]
